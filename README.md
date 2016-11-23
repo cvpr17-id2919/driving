@@ -1,6 +1,8 @@
 # Where should you attend while driving?
 Paper ID 2919 submitted to CVPR17
 
+![alt text](https://raw.githubusercontent.com/cvpr17-id2919/driving/master/misc/img.png "Sample Image")
+
 ## System requirements
 The code was tested with the following configuration:
   * Windows 8.1 Pro
